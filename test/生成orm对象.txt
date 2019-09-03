@@ -1,0 +1,1 @@
+D:/GoWorkspace/src/github.com/Shelnutt2/db2struct/cmd/db2struct/db2struct --host localhost -d sf -t sv_info --package models --struct SvInfo -p wyx123 --user root --guregu --gorm
